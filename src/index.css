@@ -110,3 +110,7 @@
     line-height: 16px;
   }
 }
+
+body {
+  background-color: var(--color-neutral-950);
+}
